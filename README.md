@@ -34,7 +34,7 @@ Os pontos de cobertura de teste da tela de cadastro do site Hoyolab incluem:
 
 ### Registro de Teste
 
-Link do vídeo gravado para atividade: [Insira o link aqui].
+Link do vídeo gravado para atividade: https://youtu.be/IJJMB6-6ewc
 
 ### Autores
 
