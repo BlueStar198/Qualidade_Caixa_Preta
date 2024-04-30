@@ -18,7 +18,11 @@ Os seguintes softwares foram utilizados para produção desta atividade:
 
 ### Instalação
 
-Para executar os testes, é necessário ter acesso a um navegador web e um sistema operacional compatível. Não é necessária a instalação de nenhum software adicional.
+Para executar os testes com o Selenium IDE, siga estas etapas:
+
+Baixe e instale o Selenium IDE no seu navegador web compatível (por exemplo, Firefox).
+Importe o arquivo de script (.side) fornecido para o Selenium IDE.
+Certifique-se de ter o navegador web aberto e pronto para execução dos testes.
 
 ### Executando os Testes
 
